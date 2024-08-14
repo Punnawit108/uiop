@@ -1,10 +1,10 @@
 diff a/homepage.html b/homepage.html	(rejected hunks)
-@@ -103,5 +103,8 @@
-     <footer>
+@@ -104,7 +104,7 @@
          &copy; 2024 My Website
      </footer>
-+    <button>
-+        OMG
-+    </button>
- </body>
- </html>
+     <button>
+-        OMG
++        OMG้หหหหหหหหห
+     </button>
+     <div class="featureing">
+         <h2>Feature tHREE</h2>
